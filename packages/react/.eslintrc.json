@@ -1,0 +1,3 @@
+{
+    "extends": "@leh-ui/eslint-config"
+}
